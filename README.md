@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sailendra  Shrestha
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning dart and c#
+- 🌱 I’m currently learning Git and Git Hub Today
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
